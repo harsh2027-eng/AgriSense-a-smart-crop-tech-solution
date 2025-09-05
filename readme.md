@@ -246,7 +246,9 @@ To extend or modify the system:
 
 ## 📝 License
 
-This project is provided as-is for educational and research purposes. Feel free to modify and distribute according to your needs.
+This project is designed by harsh a engineering student
+use it freely and make changes for educational and research purpose
+feel free to contact
 
 ---
 
